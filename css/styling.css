@@ -2,10 +2,30 @@
     font-family: 'Barrio', cursive;
 }
 
-p {
-  font-family: 'Raleway', sans-serif;
+p, h1 {
+    font-family: 'Raleway', sans-serif;
 }
 
 .aboutme {
-  border: 2px solid;
+    border: 2px solid;
+}
+
+body {
+    background-color: #eae4ce;
+}
+
+.glyphicon.glyphicon-phone {
+    font-size: 30px;
+}
+
+.glyphicon.glyphicon-envelope {
+    font-size: 30px;
+}
+
+.glyphicon.glyphicon-home {
+    font-size: 30px;
+}
+
+#imagestyling {
+    height: 200px;
 }
