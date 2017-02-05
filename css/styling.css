@@ -38,7 +38,7 @@ body {
 
 #slider .slides {
   display: block;
-  width: 4320px;
+  width: 6000px;
   height: 400px;
   margin: 0;
   padding: 0;
@@ -51,7 +51,7 @@ body {
   height: 400px;
 }
 
-#slider .supyo {
+.supyo {
   float: left;
   width: 720px;
   height: 400px;
